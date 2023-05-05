@@ -72,7 +72,7 @@ nexBtn4.addEventListener("click",function(){
     var messageDisplay = document.getElementById("messageFinal");
     resultImg.style.backgroundImage = `url('${bg}')`;
     //Assignement
-    sender = `${sender} wish you a merry Christmas!`;
+    sender = `${sender} wish you a Happy Vesak!`;
 
     if(message == ""){
         var conf = confirm("Send a empty text ?")
